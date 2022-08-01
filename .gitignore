@@ -1,0 +1,4 @@
+/wp
+/.wp-tests
+xdebug*out
+README.md
